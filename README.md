@@ -1,4 +1,4 @@
-# GEC -AI
+# Grammatical Error Correction -AI
 
 # Abstract
 Grammatical Error Correction (GEC) represents a significant challenge in the field of Natural Language Processing (NLP). 
