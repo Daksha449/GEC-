@@ -18,10 +18,13 @@ Through these objectives, we aim to significantly reduce the barrier to clear an
 # Approach
 Data Preparation:
 Thoroughly clean and preprocess the C4_200M Synthetic Dataset, ensuring data quality for training.
+
 Model Selection:
 Experiment with various architectures, including LSTMs and Transformer-based models like BERT, to identify the most effective framework.
+
 Training & Fine-Tuning:
 Employ sequence-to-sequence learning with attention mechanisms to train the model, fine-tuning on a subset of high-quality corrections.
+
 Evaluation:
 Utilize standard GEC metrics such as ERRANT and M^2 for detailed performance analysis.
 
@@ -29,14 +32,19 @@ Utilize standard GEC metrics such as ERRANT and M^2 for detailed performance ana
 
 Leveraging the extensive C4_200M Synthetic Dataset is crucial for our project's success:
 Volume: With 200 million instances, the dataset provides ample data to train a deep learning model effectively.
+
 Diversity: The dataset captures a wide range of grammatical errors, ensuring our model can handle various error types.
+
 Quality: Synthetic generation ensures controlled error introduction, providing a balance between error types and their corrected counterparts.
+
 Relevance: Derived from real-world text, the dataset maintains contextual relevance, aiding the model in understanding typical user-generated content.
 
 # Deliverables
 By the project's end, we'll present the following deliverables:
 GEC Model: A trained and optimized model capable of detecting and correcting a wide spectrum of grammatical errors.
+
 Training Scripts: Detailed code and scripts used during the model's training, ensuring reproducibility.
+
 Evaluation Report: A comprehensive analysis of the model's performance across different grammatical error types, benchmarked against existing GEC systems.
 
 
