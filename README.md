@@ -8,11 +8,17 @@ This project will explore the potential of machine learning algorithms to unders
 
 # Objectives
 Our project is centered around the following objectives:
+
 To harness the vast C4_200M Synthetic Dataset to train a robust GEC model that can understand the context and nuances of written language.
+
 To evaluate and implement state-of-the-art NLP techniques, including transformers and sequence-to-sequence learning models, for effective error correction.
+
 To benchmark the model's performance against current leading GEC frameworks, striving for superior accuracy and efficiency.
+
 To ensure the model is scalable and adaptable, capable of processing large volumes of text with varying complexity.
+
 To develop a user-friendly interface that can be integrated with writing platforms to provide real-time grammatical assistance.
+
 Through these objectives, we aim to significantly reduce the barrier to clear and correct written communication across diverse domains.
 
 # Approach
