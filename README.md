@@ -32,6 +32,7 @@ Utilize standard GEC metrics such as ERRANT and M^2 for detailed performance ana
 
 Leveraging the extensive C4_200M Synthetic Dataset is crucial for our project's success:
 
+
 Volume: With 200 million instances, the dataset provides ample data to train a deep learning model effectively.
 
 Diversity: The dataset captures a wide range of grammatical errors, ensuring our model can handle various error types.
@@ -42,6 +43,7 @@ Relevance: Derived from real-world text, the dataset maintains contextual releva
 
 # Deliverables
 By the project's end, we'll present the following deliverables:
+
 GEC Model: A trained and optimized model capable of detecting and correcting a wide spectrum of grammatical errors.
 
 Training Scripts: Detailed code and scripts used during the model's training, ensuring reproducibility.
